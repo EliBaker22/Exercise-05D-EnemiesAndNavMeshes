@@ -1,6 +1,7 @@
 # Exercise-05c-LightsAndMaterials
 
 
+
 ## Implementation
 
 ## References
@@ -8,4 +9,10 @@
 ## Future Development
 
 ## Created by
-Nathan Mishler
+
+Eli Baker
+
+
+
+EliBaker22
+
